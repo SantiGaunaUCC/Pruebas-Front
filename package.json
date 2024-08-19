@@ -1,0 +1,23 @@
+{
+  "name": "pruebas-front",
+  "version": "1.0.0",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@playwright/test": "^1.46.0"
+  },
+  "dependencies": {
+    "assert": "^2.1.0",
+    "chai": "^5.1.1",
+    "puppeteer": "^23.1.0"
+  }
+}
